@@ -1,4 +1,5 @@
 ## 👋 Bem-vindo
+
 ---
 
 ## 🛠️ Tecnologias e Habilidades
@@ -13,23 +14,24 @@
 ---
 
 ## 👀 Um pouco da minha vibe
-<img align="right" height="200" src="https://tenor.com/PkubdlXus4.gif" />
+<img align="right" height="200" src="https://media.tenor.com/PkubdlXus4AAAAAC/cat-coding.gif"/>
 
-- 💻 Código todo dia
-- 🤖 Curto bot, IA e automação
-- 🎮 Gamer nas horas vagas
-- 🧠 Aprendendo de verdade
+- 💻 Código todo dia  
+- 🤖 Bots, IA e automação  
+- 🎮 Gamer nas horas vagas  
+- 🧠 Aprendizado constante  
 
 ---
 
 ## 🌐 Me encontra aqui
-<a href="https://discord.gg/NmpamKetB">
+<a href="https://discord.gg/NmpamKetB" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Henriqvx8&show_icons=true&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqvx8&layout=compact&theme=dark"/>
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Henriqvx8&show_icons=true&theme=dark"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqvx8&layout=compact&theme=dark"/>
+</div>
