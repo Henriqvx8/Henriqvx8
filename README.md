@@ -13,7 +13,7 @@
 ---
 
 ## 👀 Um pouco da minha vibe
-<img align="right" height="200" src="https://tenor.com/pt-BR/view/ram-rezero-ram-rezero-dance-re-zero-gif-4526782943485243950" />
+<img align="right" height="200" src="https://tenor.com/PkubdlXus4.gif" />
 
 - 💻 Código todo dia
 - 🤖 Curto bot, IA e automação
@@ -30,6 +30,6 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Henriqvx8_GITHUB&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Henriqvx8&show_icons=true&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqvx8_GITHUB&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqvx8&layout=compact&theme=dark"/>
