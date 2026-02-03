@@ -29,10 +29,5 @@
 </a>
 
 ---
-
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Henriqvx8&show_icons=true&theme=dark"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Henriqvx8&layout=compact&theme=dark"/>
-</div>
+## 💻
+<img align="right" height="200" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
