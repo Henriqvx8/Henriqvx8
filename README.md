@@ -13,7 +13,7 @@
 ---
 
 ## 👀 Um pouco da minha vibe
-<img align="right" height="200" src="LINK_DO_SEU_GIF_AQUI" />
+<img align="right" height="200" src="https://tenor.com/pt-BR/view/ram-rezero-ram-rezero-dance-re-zero-gif-4526782943485243950" />
 
 - 💻 Código todo dia
 - 🤖 Curto bot, IA e automação
@@ -23,13 +23,13 @@
 ---
 
 ## 🌐 Me encontra aqui
-<a href="https://discord.gg/SEU_LINK_AQUI">
+<a href="https://discord.gg/NmpamKetB">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Henriqvx8_GITHUB&show_icons=true&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henriqvx8_GITHUB&layout=compact&theme=dark"/>
