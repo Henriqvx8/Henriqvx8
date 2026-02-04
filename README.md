@@ -23,9 +23,14 @@
 
 ---
 
-## 🌐 Me encontra aqui
-<a href="https://discord.gg/NmpamKetB" target="_blank">
-  <img src="">
-</a><p align="center">
+## 🌐 Me encontra aqui<p align="center">
+  <a href="https://discord.gg/NmpamKetB" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Entrar%20no%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Entrar no Discord"
+    >
+  </a>
+</p>
+<p align="center">
   <img height="200" style="max-width:100%;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJtczNuNzBmOThna2d3OGV2dGQ1MHZvd2xrMDltZDJjM3p3OXphdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZFR9UV7j0pkSC8mdzi/giphy.gif">
 </p>
