@@ -27,7 +27,7 @@
 <a href="https://discord.gg/NmpamKetB" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+---<p align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdreXhlcXBtajV1bG9qOTZ3MmZlMGo3a2w0Z3Z3Y3V1cjRzcG4ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUM5Hu2vg1Q9rBXydS/giphy.gif">
+</p>
 
----
-## 💻
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdreXhlcXBtajV1bG9qOTZ3MmZlMGo3a2w0Z3Z3Y3V1cjRzcG4ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUM5Hu2vg1Q9rBXydS/giphy.gif">
