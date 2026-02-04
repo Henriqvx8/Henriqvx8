@@ -30,4 +30,4 @@
 
 ---
 ## 💻
-<img align="right" height="200" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdreXhlcXBtajV1bG9qOTZ3MmZlMGo3a2w0Z3Z3Y3V1cjRzcG4ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUM5Hu2vg1Q9rBXydS/giphy.gif]>
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdreXhlcXBtajV1bG9qOTZ3MmZlMGo3a2w0Z3Z3Y3V1cjRzcG4ybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JUM5Hu2vg1Q9rBXydS/giphy.gif">
